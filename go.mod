@@ -1,6 +1,7 @@
 module k8s.io/ingress-nginx
 
 go 1.24.1
+
 require (
 	dario.cat/mergo v1.0.1
 	github.com/armon/go-proxyproto v0.1.0
@@ -114,7 +115,7 @@ require (
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yudai/pp v2.0.1+incompatible // indirect
 	golang.org/x/mod v0.24.0 // indirect
-	golang.org/x/net v0.37.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/oauth2 v0.28.0 // indirect
 	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
